@@ -21,7 +21,7 @@ sorting has the the following functions:
   `python setup.py sdist`
 
 ##installing from github
-  `pip install git+https://github.com/--------------`
+  `pip install git+https://github.com/aobakwemmokwa/ampackage.git`
 
 ##updating this package from github
-  `pip install --upgrade git+https://github.com/--------------`
+  `pip install --upgrade git+https://github.com/aobakwemmokwa/ampackage.git`

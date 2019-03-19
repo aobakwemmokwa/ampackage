@@ -8,7 +8,7 @@ setup(
     description='EDSA hackathon solution AOBAKWE',
     long_description=open('README.md').read(),
     install_requires=['random'],
-    url='https://github.com/<username>/<package_name>',
+    url='https://github.com/aobakwemmokwa/ampackage',
     author='Aobakwe Mmokwa',
     author_email='alloy.masala@gmail.com'
 )
